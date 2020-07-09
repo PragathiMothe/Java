@@ -6,6 +6,7 @@ int c=0,r=0;
 int n=153;
 int temp=n;
 System.out.println("n=="+n);
+System.out.println("GitHub testing");
 while(n>0)
 {
 r=n%10;
